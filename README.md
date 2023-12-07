@@ -16,7 +16,7 @@
 
 ## 改为自己用，你需要做：
 
-1. 一键部署 [![](https://main.qcloudimg.com/raw/67f5a389f1ac6f3b4d04c7256438e44f.svg)](https://console.cloud.tencent.com/tcb/env/index?action=CreateAndDeployCloudBaseProject&appUrl=https%3A%2F%2Fgithub.com%2hello2z%2Fwedding-card&branch=main)
+1. 一键部署 [![](https://main.qcloudimg.com/raw/67f5a389f1ac6f3b4d04c7256438e44f.svg)](https://console.cloud.tencent.com/tcb/env/index?action=CreateAndDeployCloudBaseProject&appUrl=https://github.com/hello2z/wedding-card&branch=main)
 
 2. 添加环境变量
    - ADMIN:管理员密码
